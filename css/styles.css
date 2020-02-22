@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css?family=PT+Serif|Satisfy&display=swap");
+body {
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  line-height: 1.5rem;
+  font-family: "PT Serif";
+}
+
+main {
+  max-width: 1080px;
+  margin: auto;
+  display: block;
+}
+
+/*Showcase AREA*/
+
+header {
+  background: url(../images/kimjok-happy.jpeg);
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+#brand-name a {
+  text-decoration: none;
+  font-family: "Satisfy";
+  color: #ffff;
+  font-size: 4rem;
+  font-weight: 500;
+}
+
+.wrapper1 {
+  padding-top: 50px;
+}
+
+/* Video*/
+
+.video-box {
+  width: 80vw;
+  height: 40vh;
+  margin: 70px auto;
+}
+
+.video-text {
+  padding: 50px;
+}
+
+.quotes {
+  margin: 50px;
+}
+
+.showcase-img2 {
+  background: url(../images/magical-castle.jpg);
+  height: 30vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+/*Portfolio*/
+
+.portfolio-1 {
+  background: url(../images/flower2.jpeg);
+  height: 75vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+.portfolio-2 {
+  background: url(../images/lara-showcase2.jpg);
+  height: 75vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+.portfolio-3 {
+  background: url(../images/Showcase1.jpeg);
+  height: 75vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+.portfolio-text {
+  margin: 80px;
+}
+
+.p-text {
+  font-family: "Satisfy";
+  font-size: 3rem;
+  font-style: italic;
+}
+
+/*
+.flex-box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flexbox-items {
+  width: 50%;
+  margin: 10px;
+  border: 2px solid #39393b;
+}
+
+/*Utilities*/
+
+.about-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+
+.img-contact {
+  width: 50%;
+  height: 40%;
+}
+
+footer {
+  background: url(../images/background1.jpg);
+  height: 50vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+.contact-text {
+  padding: 50px 50px;
+}

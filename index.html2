@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CreativeMinds</title>
+    <!--StyleSheet-->
+    <link rel="stylesheet" href="css/styles.css" />
+    <!--FontAwesome-->
+    <script
+      src="https://kit.fontawesome.com/af65a5844a.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header>
+      <div class="wrapper1">
+        <div class="logo-brand">
+          <a href="#">CreativeMinds</a>
+        </div>
+        <ul class="menu">
+          <li><a href="#">About</a></li>
+          <li><a href="#">portfolio</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <!--Showcase-->
+      <div class="main-title">
+        <h1>Transforming Your Dreams Into Reality</h1>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos,
+          ad perferendis explicabo atque cumque fuga molestias nihil doloribus!
+          Saepe repudiandae delectus inventore nulla accusamus ad, totam dolorem
+          impedit velit repellendus.
+        </p>
+      </div>
+    </header>
+
+    <!--Introduction-->
+    <section id="showcase" class="container">
+      <div class="introduction">
+        <h2>Creating Magical Moments</h2>
+        <hr />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia
+          neque, ad adipisci fuga recusandae at saepe aliquid eveniet nemo.
+          Soluta minus ratione nemo inventore nostrum eligendi, veniam illum
+          saepe fugiat natus quod harum sapiente mollitia hic maxime dolore esse
+          nobis?
+        </p>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="grid">
+      <div class="video-box">
+        <iframe
+          class="video"
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/drY9MKE3ghk"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <div class="video-text">
+        <h1>Let's Celebrate your Unforgettable Moments</h1>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima ipsum
+          eum velit eligendi nam quidem laborum non voluptates temporibus, earum
+          illo quasi pariatur consectetur aspernatur eos harum accusantium
+          laboriosam vel?
+        </p>
+      </div>
+    </section>
+
+    <section id="about" class="grid">
+      <div class="about-wrapper">
+        <div>
+          <img class="about-img" src="/images/mark.jpg" alt="Mark Mejia" />
+          <h2>Mark Mejia Photos</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
+            molestiae obcaecati eos quae distinctio fugiat adipisci vero vitae,
+            quod hic aperiam autem minima alias nisi sequi molestias quo
+            aspernatur. Dignissimos!
+          </p>
+        </div>
+
+        <div>
+          <img class="about-img" src="/images/Panot.jpg" alt="Panot Gaje" />
+          <h2>Panot Gaje</h2>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint,
+            cupiditate dolorem alias saepe ipsum earum laborum, cumque
+            aspernatur repudiandae dolor voluptates, animi dignissimos iure quas
+            fuga quo! Sequi, necessitatibus. Veniam?
+          </p>
+        </div>
+
+        <div>
+          <img class="about-img" src="/images/gwen.jpg" alt="Genwen Tuason" />
+          <h2>Marica De Joya</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa
+            provident repellendus deleniti obcaecati modi. Labore illum adipisci
+            consequuntur alias, dolores voluptatum laudantium sapiente repellat
+            accusantium nostrum nisi error maiores. Accusantium.
+          </p>
+        </div>
+
+        <div>
+          <img
+            class="about-img"
+            src="/images/jaiane.jpg"
+            alt="Jaine Hawak Morales"
+          />
+          <h2>Jaiane Hawak Morales</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero,
+            soluta quod non exercitationem tempore id sapiente tenetur possimus,
+            qui et cum unde! Sed, animi doloremque neque veritatis magni
+            delectus voluptates.
+          </p>
+        </div>
+
+        <div>
+          <img class="about-img" src="/images/arlan.jpg" alt="Arlan Abayari" />
+          <h2>Arlan Abayari</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero,
+            soluta quod non exercitationem tempore id sapiente tenetur possimus,
+            qui et cum unde! Sed, animi doloremque neque veritatis magni
+            delectus voluptates.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!--portfolio-->
+    <section id="portfolio" class="grid">
+      <div class="portfolio-1"></div>
+
+      <div class="portfolio-text">
+        <h1>Marica and Michael</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem,
+          laudantium maiores laborum eius aliquid corporis iste expedita eum
+          ratione accusantium dolor amet perferendis consequuntur dignissimos
+          quisquam vel, blanditiis, possimus beatae?
+        </p>
+      </div>
+      <div>
+        <img src="https://source.unsplash.com/random/200x200" alt="" />
+        <img src="https://source.unsplash.com/random/201x200" alt="" />
+        <img src="https://source.unsplash.com/random/202x200" alt="" />
+        <img src="https://source.unsplash.com/random/203x200" alt="" />
+        <img src="https://source.unsplash.com/random/204x200" alt="" />
+        <img src="https://source.unsplash.com/random/205x200" alt="" />
+        <img src="https://source.unsplash.com/random/206x200" alt="" />
+        <img src="https://source.unsplash.com/random/207x200" alt="" />
+        <img src="https://source.unsplash.com/random/208x200" alt="" />
+        <img src="https://source.unsplash.com/random/209x200" alt="" />
+      </div>
+
+      <div class="portfolio-2"></div>
+
+      <div class="portfolio-text">
+        <h1>lara Turns 18</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem,
+          laudantium maiores laborum eius aliquid corporis iste expedita eum
+          ratione accusantium dolor amet perferendis consequuntur dignissimos
+          quisquam vel, blanditiis, possimus beatae?
+        </p>
+      </div>
+      <div>
+        <img src="https://source.unsplash.com/random/200x200" alt="" />
+        <img src="https://source.unsplash.com/random/201x200" alt="" />
+        <img src="https://source.unsplash.com/random/202x200" alt="" />
+        <img src="https://source.unsplash.com/random/203x200" alt="" />
+        <img src="https://source.unsplash.com/random/204x200" alt="" />
+        <img src="https://source.unsplash.com/random/205x200" alt="" />
+        <img src="https://source.unsplash.com/random/206x200" alt="" />
+        <img src="https://source.unsplash.com/random/207x200" alt="" />
+        <img src="https://source.unsplash.com/random/208x200" alt="" />
+        <img src="https://source.unsplash.com/random/209x200" alt="" />
+      </div>
+
+      <div class="portfolio-1"></div>
+
+      <div class="portfolio-text">
+        <h1>Kim and Jok</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem,
+          laudantium maiores laborum eius aliquid corporis iste expedita eum
+          ratione accusantium dolor amet perferendis consequuntur dignissimos
+          quisquam vel, blanditiis, possimus beatae?
+        </p>
+      </div>
+      <div>
+        <img src="https://source.unsplash.com/random/200x200" alt="" />
+        <img src="https://source.unsplash.com/random/201x200" alt="" />
+        <img src="https://source.unsplash.com/random/202x200" alt="" />
+        <img src="https://source.unsplash.com/random/203x200" alt="" />
+        <img src="https://source.unsplash.com/random/204x200" alt="" />
+        <img src="https://source.unsplash.com/random/205x200" alt="" />
+        <img src="https://source.unsplash.com/random/206x200" alt="" />
+        <img src="https://source.unsplash.com/random/207x200" alt="" />
+        <img src="https://source.unsplash.com/random/208x200" alt="" />
+        <img src="https://source.unsplash.com/random/209x200" alt="" />
+      </div>
+    </section>
+
+    <!--Contact-->
+    <section id="contact" class="grid">
+      <div class="img-contact">
+        <img src="/images/Lara-invitation.jpg" alt="" />
+      </div>
+
+      <div class="contact-text">
+        <h2>Let's Turn your Dreams into Reality</h2>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione
+          excepturi dolor accusantium ducimus facilis rem, maxime quo ipsa ab
+          eos quis eveniet similique sunt consectetur, atque ut blanditiis
+          beatae omnis.
+        </p>
+        <i class="fab fa-facebook-square fa-4x"></i>
+        <i class="fab fa-instagram-square fa-4x"></i>
+        <i class="fas fa-envelope-square fa-4x"></i>
+      </div>
+    </section>
+
+    <!--Footer-->
+    <footer>
+      <p>Copyrights 2020 Creative CreativeMinds</p>
+    </footer>
+  </body>
+</html>
